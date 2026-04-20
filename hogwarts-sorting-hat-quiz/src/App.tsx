@@ -61,7 +61,7 @@ export default function App() {
 
       {/* Footer */}
       <footer className="border-t border-slate-900/50 text-slate-600 text-center py-4 text-xs font-serif">
-        由魔法委员会监制 &copy; 霍格沃茨分院魔法体验中心
+        由SCZ魔法委员会监制 &copy; 霍格沃茨分院魔法体验中心
       </footer>
     </div>
   );
